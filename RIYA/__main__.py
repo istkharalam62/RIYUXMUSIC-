@@ -5,7 +5,7 @@ from pyrogram import idle
 
 import config
 from RIYA import LOGGER, app, userbot
-from RIYA.core.call import RAUSHAN
+from RIYA.core.call import ISTKHAR 
 from RIYA.misc import sudo
 from RIYA.plugins import ALL_MODULES
 from RIYA.utils.database import get_banned_users, get_gbanned

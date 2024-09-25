@@ -2,7 +2,7 @@ from RIYA import app
 from config import OWNER_ID
 from pyrogram import filters, enums
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from RIYA.utils.ISTKHAR _ban import admin_filter
+from RIYA.utils.ISTKHAR_ban import admin_filter
 from RIYA.misc import SUDOERS
 
 BOT_ID = app.me.id  # Corrected this line

@@ -2,7 +2,7 @@ import asyncio
 from pyrogram.enums import ChatType, ChatMemberStatus
 from RIYA import app
 from pyrogram import filters
-from RIYA.utils.ISTKHAR _ban import admin_filter
+from RIYA.utils.ISTKHAR_ban import admin_filter
 
 
 

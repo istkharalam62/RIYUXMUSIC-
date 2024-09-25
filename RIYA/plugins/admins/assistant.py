@@ -6,7 +6,7 @@ import asyncio
 from pyrogram import filters
 from pyrogram.enums import ChatMemberStatus
 from RIYA import app
-from RIYA.utils.ISTKHAR _ban import admin_filter
+from RIYA.utils.ISTKHAR_ban import admin_filter
 from RIYA.utils.database import get_assistant
 
 links = {}
